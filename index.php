@@ -60,7 +60,7 @@
     
     <div id="bodycontent">
         <div id="maincontent">
-            <h1>¡Bienvenidos a nuestro stand de #Nerdearla!</h1>
+            <h1>¡Bienvenidos  aaa a nuestro stand de #Nerdearla!</h1>
             <h2> Somos IBM, una empresa global de tecnología e innovación, con más de 375,000 empleados que atienden a clientes en 170 países. </h2>
         </div>
 
