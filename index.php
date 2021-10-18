@@ -29,7 +29,7 @@
 
 <body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="/">
             <img src="img/ibm_logo.svg" width="60" alt="IBM Logo">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,14 +40,14 @@
           <ul class="navbar-nav mr-auto">
 
             <li class="nav-item">
-              <a href="https://app.swapcard.com/event/nerdearla2021/exhibitor/RXhoaWJpdG9yXzU1OTg4Ng%3D%3D" target="_blank" class="nav-link" href="#">
+              <a href="https://app.swapcard.com/event/nerdearla2021/exhibitor/RXhoaWJpdG9yXzU1OTg4Ng%3D%3D" target="_blank" class="nav-link">
                   Volver a la plataforma del evento 
                   <img src="img/carbon_launch.svg" width="15" height="15" alt="Abrir enlace">
             </a>
             </li>
            
             <li class="nav-item">
-              <a href="https://www.ibm.com/ar-es" target="_blank" class="nav-link" href="#">
+              <a href="https://www.ibm.com/ar-es" target="_blank" class="nav-link">
                   IBM Argentina 
                   <img src="img/carbon_launch.svg" width="15" height="15" alt="Abrir enlace">
             </a>
@@ -69,9 +69,7 @@
       
             <div id="linkbanners">
                 <div class="thebanner bannerpink">
-                    <a href="https://www.ibm.com/ar-es/employment/" target="_blank">
-                    <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_eqeg9rql.json" background="transparent" speed="1" loop autoplay></lottie-player>
-                    </a>
+                    <lottie-player src="https://assets6.lottiefiles.com/private_files/lf30_lydat7jr.json" style="width: auto; height: auto;"  background="transparent" speed="1" loop autoplay></lottie-player>
                     <p class="thebannertitle">Oportunidades laborales</p>
                     <div id="thebannerdescription">
                         <p>Unite a nuestro equipo, conocé nuestros empleos</p>
@@ -83,12 +81,10 @@
 
 
                 <div class="thebanner bannerpurple">
-                    <a href="https://hablaconemma.byinnovationteam.com/" target="_blank">
-                        <lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_atnjphhd.json" background="transparent"  speed="1"  loop autoplay></lottie-player>
-                    </a>                   
+                        <lottie-player src="https://assets1.lottiefiles.com/private_files/lf30_uqovqko3.json" style="width: auto; height: auto;" background="transparent"  speed="1"  loop autoplay></lottie-player>                   
                     <p class="thebannertitle">Hablá con Emma</p>
                     <div id="thebannerdescription">
-                        <p>¡No te podes perder de hablar con la primer robot impresa y diseñada por IBM!</p>
+                        <p>¡No te podés perder de hablar con la primer robot impresa y diseñada por IBM!</p>
                         <a href="https://hablaconemma.byinnovationteam.com/" target="_blank" type="button" class="btn buttonpurple">Ver más
                             <img class="changepurple" src="img/carbon_launch_w.svg" width="1rem" alt="Ver más">
                         </a>
@@ -97,9 +93,7 @@
 
 
                 <div class="thebanner bannerblue">
-                    <a href="https://developer.ibm.com/startups/" target="_blank">
-                        <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_ka82wsfk.json"  background="transparent"  speed="1"  loop autoplay></lottie-player>
-                    </a>
+                        <lottie-player src="https://assets6.lottiefiles.com/private_files/lf30_gfrrqnpu.json"  style="width: auto; height: auto;"  background="transparent"  speed="1"  loop autoplay></lottie-player>
                     <p class="thebannertitle">Start up with IBM</p>
                     <div id="thebannerdescription">
                         <p>¿Querés escalar tu negocio? Accedé a créditos en la nube y muchos más beneficios</p>
@@ -116,21 +110,21 @@
     <footer>
        
         <div id="footermain">
-            <a class="footer-brand" href="#">
+            <a class="footer-brand" href="/">
             <img src="img/ibm_logo_footer.svg" width="100" alt="IBM Logo">
             </a>
 
             <div id="socialmedia">
-                <a href="/">
+                <a href="https://www.instagram.com/lifeatibm/" target="_blank">
                     <img src="img/logo_instagram.svg" width="32" alt="IBM Logo">
                 </a>
-                <a href="/">
+                <a href="https://www.facebook.com/IBM/" target="_blank" >
                     <img src="img/logo_facebook.svg" width="32" alt="IBM Logo">
                 </a>
-                <a href="/">
+                <a href="https://twitter.com/IBMLatAm" target="_blank">
                     <img src="img/logo_twitter.svg" width="32" alt="IBM Logo">
                 </a>
-                <a href="/">
+                <a href="https://www.youtube.com/c/IBM" target="_blank">
                     <img src="img/logo_youtube.svg" width="32" alt="IBM Logo">
                 </a>
             </div>
